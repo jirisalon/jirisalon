@@ -4,6 +4,5 @@
 ------
 
 - :earth_africa: Building Location intelligence app @ [CleverMaps](https://www.clevermaps.io)
-- :computer: I work daily with `.ts`, `.tsx`, `.test.ts`, `.cy.ts`
-- :rocket: I lead some scrum ceremonies 
+- :computer: I work daily with `.ts`, `.tsx`, `.test.ts`, `.cy.ts` and lead some scrum ceremonies 
 - :mortar_board: Learning all about agile development, testing and functional programming 
